@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mingo20/dtech/main/assets/icon-512.png" width="88" alt="DGTech" />
+<img src="https://raw.githubusercontent.com/Mingo20/dtech/main/assets/brand/dg-logo-512.png" width="120" alt="DGTech" />
+
+<br/>
+
+<img src="assets/domingo-guerra.jpg" width="150" alt="Domingo Guerra, fundador de DGTech" style="border-radius:50%" />
 
 # Domingo Guerra · DGTech
+
+_Fundador de DGTech · República Dominicana_
 
 **Construyo aplicaciones que resuelven problemas reales en República Dominicana.**
 Energía, comercio, educación, legal y automatización con IA. Web apps instalables, sin tiendas, sin fricción.
