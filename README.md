@@ -2,10 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/Mingo20/dtech/main/assets/brand/dg-logo-512.png" width="120" alt="DGTech" />
 
-<br/>
-
-<img src="assets/domingo-guerra.jpg" width="150" alt="Domingo Guerra, fundador de DGTech" />
-
 # Domingo Guerra · DGTech
 
 _Fundador de DGTech · República Dominicana_
